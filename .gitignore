@@ -1,4 +1,7 @@
 .idea
 .ipynb_checkpoints
 data/institutionen_gerit.xlsx
-notebooks/Test.ipynb
+playground
+*.layout
+data/inst_tab_sep25.csv
+data/inst_list_full_with_aff_strings.csv
