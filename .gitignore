@@ -5,3 +5,4 @@ playground
 *.layout
 data/inst_tab_sep25.csv
 data/inst_list_full_with_aff_strings.csv
+notebooks/*.html

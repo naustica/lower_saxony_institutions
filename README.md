@@ -1,12 +1,12 @@
-# HDN-FIS: Institutionsanreicherung Niedersächsischer Hochschulen in OpenAlex
+# HDN-FIS: Institutionsanreicherung niedersächsischer Hochschulen in OpenAlex
 
-Dieses Projekt zielt darauf ab, die Abdeckung Niedersächsischer Hochschulen in OpenAlex zu optimieren. 
+Dieses Projekt zielt darauf ab, die Abdeckung niedersächsischer Hochschulen in OpenAlex zu optimieren. 
 
 ### 🏗️ Problem
 
-Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissenschaftlichen Einrichtung in bibliographischen Datenquellen (z.B. OpenAlex) gegeben.
+Nicht immer ist eine korrekte Zuordnung eines Autors zu einer (deutschen) wissenschaftlichen Einrichtung in bibliographischen Datenquellen (z.B. OpenAlex) gegeben.
 
-<b>Beispiel:</b>
+Beispiel:
 
 ```json
 {
@@ -38,7 +38,7 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 }
 ```
 
-<b>Idee:</b> Anhand von Instititutionszuordnungen aus anderen offenen Datenquellen könnten Lücken geschlossen werden und ggf. fehlerhafte Zuordnungen korrigiert werden. 
+Idee: Anhand von Instititutionszuordnungen aus anderen offenen Datenquellen könnten Lücken geschlossen werden und ggf. fehlerhafte Zuordnungen korrigiert werden. 
 
 ## 📈 Daten
 
