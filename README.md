@@ -4,9 +4,9 @@ Dieses Projekt zielt darauf ab, die Abdeckung niedersächsischer Hochschulen in 
 
 ### 🏗️ Problem
 
-Nicht immer ist eine korrekte Zuordnung eines Autors zu einer (deutschen) wissenschaftlichen Einrichtung in bibliographischen Datenquellen (z.B. OpenAlex) gegeben.
+Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissenschaftlichen Einrichtung in bibliographischen Datenquellen (z.B. OpenAlex) gegeben.
 
-Beispiel:
+<b>Beispiel:</b>
 
 ```json
 {
@@ -38,7 +38,7 @@ Beispiel:
 }
 ```
 
-Idee: Anhand von Instititutionszuordnungen aus anderen offenen Datenquellen könnten Lücken geschlossen werden und ggf. fehlerhafte Zuordnungen korrigiert werden. 
+<b>Idee:</b> Anhand von Instititutionszuordnungen aus anderen offenen Datenquellen könnten Lücken geschlossen werden und ggf. fehlerhafte Zuordnungen korrigiert werden. 
 
 ## 📈 Daten
 
