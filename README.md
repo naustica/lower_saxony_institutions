@@ -59,11 +59,11 @@ Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und OPE
 ## 🔎 Gap-Analyse
 
 - Vergleich OpenAlex mit der Bielefelder Institutionskodierung
-- [Link](docs/comparison.html)
+- [Link](https://naustica.github.io/lower_saxony_institutions/comparison)
 
 ## 🔨 Anreicherung in OpenAlex
 
 Mithilfe des Datenabgleichs aus OpenAlex und OPENBIB lassen sich konkrete Verbesserungsvorschläge bei der Institutionszuordnung in OpenAlex ableiten. Diese können in der folgenden Tabelle eingesehen werden.
 
 - Dieser Schritt erfolgt im April
-- [Link](docs/download.html)
+- [Link](https://naustica.github.io/lower_saxony_institutions/download)
