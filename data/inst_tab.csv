@@ -1,21 +1,20 @@
 inst_name,ror_id,n_kb,n_oal,difference
-Carl von Ossietzky Universität Oldenburg,033n9gh91,5906,6452,-546
-Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth,02vvvm705,323,355,-32
-Universität Osnabrück,04qmmjx98,3081,3394,-313
-Ostfalia Hochschule für angewandte Wissenschaften,01bk10867,406,447,-41
-Gottfried Wilhelm Leibniz Universität Hannover,0304hq317,11399,11768,-369
-Hochschule Hannover,03m2kj587,87,140,-53
-Medizinische Hochschule Hannover (MHH),00f2yqf98,14606,15262,-656
-Georg-August-Universität Göttingen,01y9bpm73,19881,21917,-2036
-Fachhochschule für die Wirtschaft Hannover (FHDW),03z6vda50,19,31,-12
-Technische Universität Braunschweig,010nsgg66,8090,8695,-605
-Hochschule Emden/Leer,01bc76c69,292,345,-53
-Stiftung Universität Hildesheim,02f9det96,958,1239,-281
-Stiftung Tierärztliche Hochschule Hannover,015qjqf64,2320,2887,-567
-Technische Universität Clausthal,04qb8nc58,2038,2159,-121
-Hochschule Osnabrück,059vymd37,615,650,-35
-Universität Vechta,045y6d111,357,467,-110
-Leuphana Universität Lüneburg,02w2y2t16,2190,2685,-495
-PFH Private Hochschule Göttingen,01we8bn75,78,133,-55
-Hochschule 21 Buxtehude,00xdvw685,6,24,-18
-Hochschule Weserbergland,0367m1n91,17,26,-9
+Carl von Ossietzky Universität Oldenburg,https://ror.org/033n9gh91,5906,6452,-546
+Georg-August-Universität Göttingen,https://ror.org/01y9bpm73,19881,21917,-2036
+Gottfried Wilhelm Leibniz Universität Hannover,https://ror.org/0304hq317,11399,11768,-369
+Hochschule Emden/Leer,https://ror.org/01bc76c69,292,345,-53
+Hochschule Hannover,https://ror.org/03z6vda50,87,272,-185
+Hochschule Osnabrück,https://ror.org/059vymd37,615,650,-35
+Hochschule für Bildende Künste Braunschweig,https://ror.org/03aft2f80,13,28,-15
+"Hochschule für Musik, Theater und Medien Hannover",https://ror.org/00x67m532,57,239,-182
+Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen,https://ror.org/00f5q5839,115,136,-21
+Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth,https://ror.org/02vvvm705,323,355,-32
+Leuphana Universität Lüneburg,https://ror.org/02w2y2t16,2190,2685,-495
+Medizinische Hochschule Hannover (MHH),https://ror.org/00f2yqf98,14606,15262,-656
+Ostfalia Hochschule für angewandte Wissenschaften,https://ror.org/01bk10867,406,447,-41
+Stiftung Tierärztliche Hochschule Hannover,https://ror.org/015qjqf64,2320,2887,-567
+Stiftung Universität Hildesheim,https://ror.org/02f9det96,958,1239,-281
+Technische Universität Braunschweig,https://ror.org/010nsgg66,8090,8695,-605
+Technische Universität Clausthal,https://ror.org/04qb8nc58,2038,2159,-121
+Universität Osnabrück,https://ror.org/04qmmjx98,3081,3394,-313
+Universität Vechta,https://ror.org/045y6d111,357,467,-110
