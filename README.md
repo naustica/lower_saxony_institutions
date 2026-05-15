@@ -1,5 +1,7 @@
 # HDN-FIS: Institutionsanreicherung niedersächsischer Hochschulen in OpenAlex
 
+**🚧 Work in progress! 🚧**
+
 Dieses Projekt zielt darauf ab, die Abdeckung niedersächsischer Hochschulen in OpenAlex zu optimieren. 
 
 ### 🏗️ Problem
