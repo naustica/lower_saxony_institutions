@@ -46,7 +46,7 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 
 - [GERiT](https://gerit.org/de/service): Stand Januar 2025
 - [OpenAlex](https://openalex.org): Stand März 2026
-- [OPENBIB](https://zenodo.org/records/18429476): Stand Juli 2025
+- [Kompetenznetzwerk Bibliometrie (KB)](https://bibliometrie.info): Stand Januar 2026
 
 ## Methode
 
@@ -56,7 +56,7 @@ Um eine Liste mit allen wissenschaftlichen Institutionen in Deutschland zu erhal
 
 ### 🖇️ Verknüpfung der Institutionsdaten mit weiteren Datenquellen
 
-Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und OPENBIB angereichert. So ist es möglich, Institutionen nach dem Bundesland Niedersachsen zu filtern und nur Institutionen zu berücksichtigen, die in OPENBIB als Hochschule klassifiziert werden. Es folgt ein Vergleich der Institutionszuordnung in OpenAlex und OPENBIB.
+Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und dem KB angereichert. So ist es möglich, Institutionen nach dem Bundesland Niedersachsen zu filtern und nur Institutionen zu berücksichtigen, die im KB als Hochschule klassifiziert werden. Es folgt ein Vergleich der Institutionszuordnung in OpenAlex und dem KB.
 
 ## 🔎 Gap-Analyse
 
@@ -65,7 +65,7 @@ Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und OPE
 
 ## 🔨 Anreicherung in OpenAlex
 
-Mithilfe des Datenabgleichs aus OpenAlex und OPENBIB lassen sich konkrete Verbesserungsvorschläge bei der Institutionszuordnung in OpenAlex ableiten. Diese können in der folgenden Tabelle eingesehen werden.
+Mithilfe des Datenabgleichs aus OpenAlex und dem KB lassen sich konkrete Verbesserungsvorschläge bei der Institutionszuordnung in OpenAlex ableiten. Diese können in der folgenden Tabelle eingesehen werden.
 
 - Dieser Schritt erfolgt im April
 - [Link](https://naustica.github.io/lower_saxony_institutions/download)
