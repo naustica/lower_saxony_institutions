@@ -45,8 +45,8 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 ## 📈 Daten
 
 - [GERiT](https://gerit.org/de/service): Stand Januar 2025
-- [OpenAlex](https://openalex.org): Stand März 2026
-- [Kompetenznetzwerk Bibliometrie (KB)](https://bibliometrie.info): Stand Januar 2026
+- [OpenAlex](https://openalex.org): Stand Juni 2026
+- [Kompetenznetzwerk Bibliometrie (KB)](https://bibliometrie.info): Stand März 2026
 
 ## Methode
 
