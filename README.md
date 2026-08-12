@@ -50,8 +50,8 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 
 ### Öffentliche Hochschulen in Niedersachsen
 
-| inst_name	| dfg_inst_id |	ror	| sector | federal_state |
-|-----------|-------------|-----|--------|---------------|
+| Einrichtung | GERiT ID | ROR ID | Sektor | Bundesland |
+|-------------|----------|--------|--------|------------|
 | Leuphana Universität Lüneburg | 10232 | https://ror.org/02w2y2t16 | uni | Niedersachsen
 | Carl von Ossietzky Universität Oldenburg | 10233 | https://ror.org/033n9gh91 | uni	| Niedersachsen |
 | Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth | 10533 | https://ror.org/02vvvm705 | fh | Niedersachsen |
@@ -103,7 +103,7 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 
 ### 🏫 Download Institutionsdaten
 
-Um eine Liste mit allen wissenschaftlichen Institutionen in Deutschland zu erhalten, wurden zunächst sämtliche Stammdaten aus dem GERiT-Verzeichnis heruntergeladen. Die einzelnen Institutionen wurden dann auf Basis der Postleitzahl mit einem Bundesland verknüpft (siehe [Python-Skript](get_institutions.py)). Es wurden manuell Zuordnungen erstellt, sofern eine Postleitzahl nicht mit einem Bundesland verknüpft werden konnte. Die komplette Liste mit wissenschaftlichen Einrichtungen kann im Ordner [data/](data/inst_with_federal_state_filled.csv) heruntergeladen werden. Die Liste kann genutzt werden, um Einrichtungen nach ihren Bundesländern zu filtern.
+Um eine Liste mit allen wissenschaftlichen Institutionen in Niedersachsen (und Deutschland) zu erhalten, wurden zunächst sämtliche Stammdaten aus dem GERiT-Verzeichnis heruntergeladen. Die einzelnen Institutionen wurden dann auf Basis der Postleitzahl mit einem Bundesland verknüpft (siehe [Python-Skript](get_institutions.py)). Es wurden manuell Zuordnungen erstellt, sofern eine Postleitzahl nicht mit einem Bundesland verknüpft werden konnte. Die komplette Liste mit wissenschaftlichen Einrichtungen kann im Ordner [data/](data/inst_with_federal_state_filled.csv) heruntergeladen werden. Die Liste kann genutzt werden, um Einrichtungen nach ihren Bundesländern zu filtern.
 
 ### 🖇️ Verknüpfung der Institutionsdaten mit weiteren Datenquellen
 
