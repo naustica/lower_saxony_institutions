@@ -153,3 +153,4 @@ Ziel dieses Arbeitspaketes ist es, die Affilitationsangaben in OpenAlex mit GERi
 ## 📫 Kontakt
 
 Nick Haupka, Staats- und Universitätsbibliothek Göttingen. nick.haupka@sub.uni-goettingen.de
+Nataliia Kaliuzhna, Technische Informationsbibliothek Hannover. nataliia.kaliuzhna@tib.eu
