@@ -126,7 +126,7 @@ Mithilfe des Datenabgleichs aus OpenAlex und dem KB lassen sich konkrete Verbess
 
 ## 🗂️ Fakultätszuordnung mit GERiT
 
-Ziel dieses Arbeitspaketes ist es, die Affilitationsangaben in OpenAlex mit GERiT zu verknüpfen, sodass Publikationen einer Fakultät oder einem Institut zugeordnet werden können. Die Zuordnung erfolgt auf Basis von regulären Ausdrücken sowie Mustererkennung.
+Ziel dieses Arbeitspaketes ist es, die Affilitationsangaben in OpenAlex mit GERiT zu verknüpfen, sodass Publikationen einer Fakultät oder einem Institut zugeordnet werden können. Die Zuordnung erfolgt auf Basis von regulären Ausdrücken.
 
 <b>Beispiel:</b>
 
