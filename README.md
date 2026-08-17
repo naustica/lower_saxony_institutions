@@ -109,6 +109,8 @@ Um eine Liste mit allen wissenschaftlichen Institutionen in Niedersachsen (und D
 
 Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und dem KB angereichert. So ist es möglich, Institutionen nach dem Bundesland Niedersachsen zu filtern und nur Institutionen zu berücksichtigen, die im KB als Hochschule klassifiziert werden. Es folgt ein Vergleich der Institutionszuordnung in OpenAlex und dem KB.
 
+🤖 Link zum Code: [Jupyter Notebook](notebooks/Monitoring.ipynb)
+
 ## 🔎 Gap-Analyse
 
 <figure>
@@ -117,6 +119,8 @@ Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und dem
         <b>Fig.1:</b> Vergleich der Zuordnung von Affiliationsstrings mit niedersächsischen Hochschulen in OpenAlex und KB. Es wurde jede Hochschule pro Publikation nur einmal gezählt. Nur Zeitschriftenartikel zwischen 2020 und 2024 wurden berücksichtigt. Publikationen der Universitätsmedizin Göttingen wurde aus Gründen der besseren Vergleichbarkeit zwischen den Datenquellen der Universität Göttingen zugerechnet. Gleiches gilt auch für Publikationen der Universitätsmedizin Oldenburg, welche der Universität Oldenburg zugerechnet wurden. 
     </figcaption>
 </figure>
+
+<b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung eine GERiT ID sowie mindestens 15 Publikationen vorliegen müssen.
 
 ## 🔨 Anreicherung in OpenAlex
 
@@ -149,6 +153,8 @@ Ziel dieses Arbeitspaketes ist es, die Affilitationsangaben in OpenAlex mit GERi
     }
 }
 ```
+
+Über das folgende Notebook kann die Fakultätszuordnung mit Publikationsdaten aus OpenAlex ausprobiert werden: [Jupyter Notebook](notebooks/ExampleWithGERiT.ipynb)
 
 ## 📫 Kontakt
 
