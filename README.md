@@ -52,16 +52,16 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 
 | Einrichtung | GERiT ID | ROR ID | Sektor | Bundesland |
 |-------------|----------|--------|--------|------------|
-| Leuphana Universität Lüneburg | 10232 | https://ror.org/02w2y2t16 | uni | Niedersachsen
+| Leuphana Universität Lüneburg | 10232 | https://ror.org/02w2y2t16 | uni | Niedersachsen |
 | Carl von Ossietzky Universität Oldenburg | 10233 | https://ror.org/033n9gh91 | uni	| Niedersachsen |
 | Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth | 10533 | https://ror.org/02vvvm705 | fh | Niedersachsen |
 | Hochschule Emden/Leer | 980710 | https://ror.org/01bc76c69 | fh |	Niedersachsen |
 | Gottfried Wilhelm Leibniz Universität Hannover | 10238 | https://ror.org/0304hq317 |	uni | Niedersachsen |
-| Hochschule für Musik, Theater und Medien Hannover | 10246 | https://ror.org/00x67m532 | khmh |	Niedersachsen |
+| Hochschule für Musik, Theater und Medien Hannover | 10246 | https://ror.org/00x67m532 | khmh | Niedersachsen |
 | Hochschule Hannover |	10252 |	https://ror.org/03m2kj587 |	fh | Niedersachsen |
 | Stiftung Tierärztliche Hochschule Hannover | 10249 | https://ror.org/015qjqf64 | uni | Niedersachsen |
 | Medizinische Hochschule Hannover (MHH) | 10247 | https://ror.org/00f2yqf98 | uni |	Niedersachsen |
-| HAWK Hochschule für angewandte Wissenschaft und Kunst |	10253 |	https://ror.org/00f5q5839 |	fh | Niedersachsen |
+| HAWK Hochschule für angewandte Wissenschaft und Kunst | 10253 |	https://ror.org/00f5q5839 |	fh | Niedersachsen |
 | Stiftung Universität Hildesheim |	10235 |	https://ror.org/02f9det96 |	uni | Niedersachsen |
 | Georg-August-Universität Göttingen | 10236 | https://ror.org/01y9bpm73 | uni | Niedersachsen |
 | Technische Universität Braunschweig |	10240 |	https://ror.org/010nsgg66 |	uni	| Niedersachsen |
@@ -120,8 +120,8 @@ Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und dem
     </figcaption>
 </figure>
 
-
-<b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung eine GERiT ID sowie mindestens 15 Publikationen vorliegen müssen.
+<br>
+<b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung mindestens 15 Publikationen vorliegen müssen.
 
 ## 🔨 Anreicherung in OpenAlex
 
