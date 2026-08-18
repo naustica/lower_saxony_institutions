@@ -76,6 +76,8 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 
 <b>Tab. 1.</b> Bedeutung der Abkürzungen: uni = Universität, fh = Hochschule, khmh = Kunst- und Musikhochschule
 
+<b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung mindestens 15 Publikationen vorliegen müssen.
+
 ### Suborganisationen in OpenAlex (ohne An-Institute)
 
 #### Georg-August-Universität Göttingen
@@ -119,9 +121,6 @@ Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und dem
         <b>Fig.1:</b> Vergleich der Zuordnung von Affiliationsstrings mit niedersächsischen Hochschulen in OpenAlex und KB. Es wurde jede Hochschule pro Publikation nur einmal gezählt. Nur Zeitschriftenartikel zwischen 2020 und 2024 wurden berücksichtigt. Publikationen der Universitätsmedizin Göttingen wurde aus Gründen der besseren Vergleichbarkeit zwischen den Datenquellen der Universität Göttingen zugerechnet. Gleiches gilt auch für Publikationen der Universitätsmedizin Oldenburg, welche der Universität Oldenburg zugerechnet wurden. 
     </figcaption>
 </figure>
-
-<br>
-<b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung mindestens 15 Publikationen vorliegen müssen.
 
 ## 🔨 Anreicherung in OpenAlex
 
