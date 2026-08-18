@@ -120,6 +120,7 @@ Im nächsten Schritt wurden die Institutionsdaten mit Daten aus OpenAlex und dem
     </figcaption>
 </figure>
 
+
 <b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung eine GERiT ID sowie mindestens 15 Publikationen vorliegen müssen.
 
 ## 🔨 Anreicherung in OpenAlex
