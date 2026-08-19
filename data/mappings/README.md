@@ -11,12 +11,12 @@
 | Hochschule Hannover |	10252 |	https://ror.org/03m2kj587 |	fh | [Datei](hsh.json) |
 | Stiftung Tierärztliche Hochschule Hannover | 10249 | https://ror.org/015qjqf64 | uni | [Datei](tiho.json) |
 | Medizinische Hochschule Hannover (MHH) | 10247 | https://ror.org/00f2yqf98 | uni | [Datei](mhh.json) |
-| HAWK Hochschule für angewandte Wissenschaft und Kunst | 10253 |	https://ror.org/00f5q5839 |	fh | |
+| HAWK Hochschule für angewandte Wissenschaft und Kunst | 10253 |	https://ror.org/00f5q5839 |	fh | [Datei](hawk.json) |
 | Stiftung Universität Hildesheim |	10235 |	https://ror.org/02f9det96 |	uni | [Datei](hildesheim.json) |
 | Georg-August-Universität Göttingen | 10236 | https://ror.org/01y9bpm73 | uni | [Datei](gau.json) |
 | Technische Universität Braunschweig |	10240 |	https://ror.org/010nsgg66 |	uni	| [Datei](tubraunschweig.json) |
-| Hochschule für Bildende Künste Braunschweig |	10251 |	https://ror.org/03aft2f80 |	khmh | |
-| Ostfalia Hochschule für angewandte Wissenschaften | 10254 |	 https://ror.org/01bk10867 |	fh | |
+| Hochschule für Bildende Künste Braunschweig |	10251 |	https://ror.org/03aft2f80 |	khmh | [Datei](hbk.json) |
+| Ostfalia Hochschule für angewandte Wissenschaften | 10254 |	 https://ror.org/01bk10867 |	fh | [Datei](ostfalia.json) |
 | Technische Universität Clausthal | 10242 | https://ror.org/04qb8nc58 | uni | [Datei](clausthal.json) | 
 | Universität Osnabrück | 10244 | https://ror.org/04qmmjx98 | uni | [Datei](uosnabrück.json) |
 | Hochschule Osnabrück | 10255 | https://ror.org/059vymd37 | fh | [Datei](hsosnabrück.json) |
