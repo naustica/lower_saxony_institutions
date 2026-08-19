@@ -9,16 +9,16 @@
 | Gottfried Wilhelm Leibniz Universität Hannover | 10238 | https://ror.org/0304hq317 |	uni | [Datei](leibniz.json) |
 | Hochschule für Musik, Theater und Medien Hannover | 10246 | https://ror.org/00x67m532 | khmh | [Datei](hmtmh.json) |
 | Hochschule Hannover |	10252 |	https://ror.org/03m2kj587 |	fh | [Datei](hsh.json) |
-| Stiftung Tierärztliche Hochschule Hannover | 10249 | https://ror.org/015qjqf64 | uni |  |
-| Medizinische Hochschule Hannover (MHH) | 10247 | https://ror.org/00f2yqf98 | uni | |
+| Stiftung Tierärztliche Hochschule Hannover | 10249 | https://ror.org/015qjqf64 | uni | [Datei](tiho.json) |
+| Medizinische Hochschule Hannover (MHH) | 10247 | https://ror.org/00f2yqf98 | uni | [Datei](mhh.json) |
 | HAWK Hochschule für angewandte Wissenschaft und Kunst | 10253 |	https://ror.org/00f5q5839 |	fh | |
-| Stiftung Universität Hildesheim |	10235 |	https://ror.org/02f9det96 |	uni | |
+| Stiftung Universität Hildesheim |	10235 |	https://ror.org/02f9det96 |	uni | [Datei](hildesheim.json) |
 | Georg-August-Universität Göttingen | 10236 | https://ror.org/01y9bpm73 | uni | [Datei](gau.json) |
 | Technische Universität Braunschweig |	10240 |	https://ror.org/010nsgg66 |	uni	| [Datei](tubraunschweig.json) |
 | Hochschule für Bildende Künste Braunschweig |	10251 |	https://ror.org/03aft2f80 |	khmh | |
 | Ostfalia Hochschule für angewandte Wissenschaften | 10254 |	 https://ror.org/01bk10867 |	fh | |
-| Technische Universität Clausthal | 10242 | https://ror.org/04qb8nc58 | uni | | 
+| Technische Universität Clausthal | 10242 | https://ror.org/04qb8nc58 | uni | [Datei](clausthal.json) | 
 | Universität Osnabrück | 10244 | https://ror.org/04qmmjx98 | uni | [Datei](uosnabrück.json) |
-| Hochschule Osnabrück | 10255 | https://ror.org/059vymd37 | fh | |
-| Universität Vechta | 10597 | https://ror.org/045y6d111 | uni | |
+| Hochschule Osnabrück | 10255 | https://ror.org/059vymd37 | fh | [Datei](hsosnabrück.json) |
+| Universität Vechta | 10597 | https://ror.org/045y6d111 | uni | [Datei](vechta.json) |
 | Universitätsmedizin Göttingen | | https://ror.org/021ft0n22 | uni | [Datei](gau.json) |
