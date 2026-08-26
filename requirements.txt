@@ -1,0 +1,9 @@
+google-cloud-bigquery==3.13.0
+pandas==2.1.4
+requests==2.32.3
+matplotlib==3.8.2
+seaborn==0.13.0
+pyalex==0.21
+selenium==4.41.0
+beautifulsoup4==4.12.2
+bokeh==3.9.0
