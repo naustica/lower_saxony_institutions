@@ -156,6 +156,8 @@ Ziel dieses Arbeitspaketes ist es, die Affilitationsangaben in OpenAlex mit GERi
 
 Über das folgende Notebook kann die Fakultätszuordnung mit Publikationsdaten aus OpenAlex ausprobiert werden: [Jupyter Notebook](notebooks/ExampleWithGERiT.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naustica/lower_saxony_institutions/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FExampleWithGERiT.ipynb)
+
 ## 📫 Kontakt
 
 Nick Haupka, Staats- und Universitätsbibliothek Göttingen. nick.haupka@sub.uni-goettingen.de
