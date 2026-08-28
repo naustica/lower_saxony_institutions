@@ -5,10 +5,10 @@ https://openalex.org/W4292696011,Zentrum für Systemische Neurowissenschaften  Ha
 https://openalex.org/W4391515432,"Department of Obstetrics, Gynaecology and Reproductive Medicine, Hannover Medical School, Carl Neuberg Str. 1, Hannover 30625, Germany",Stiftung Tierärztliche Hochschule Hannover,,FALSE, Hannover Medical School
 https://openalex.org/W3011037995,"Institute of Food Quality and Food Safety, Research Center for Emerging Infections and Zoonoses (RIZ), Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
 https://openalex.org/W3163111105,"Innovative Veterinary Diagnostics (IVD GmbH), Albert-Einstein-Str. 5, 30926, Seelze, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
-https://openalex.org/W4210354097,"Institute for Biometry, Epidemiology and Information Processing, Veterinary Medical University Hannover, 30559 Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,Medizinische Hochschule Hannover (MHH),TRUE,"true for OpenAlex, false for KB"
+https://openalex.org/W4210354097,"Institute for Biometry, Epidemiology and Information Processing, Veterinary Medical University Hannover, 30559 Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,Medizinische Hochschule Hannover (MHH),FALSE,"true for OpenAlex, false for KB"
 https://openalex.org/W4387894204,"Dept. of Obstetrics, Gynecology and Reproductive Medicine, Hannover Medical School, Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,FALSE,Hannover Medical School
 https://openalex.org/W3091908380,"Research Center Emerging Infections and Zoonoses (RIZ), Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
-https://openalex.org/W4221084608,"Institute for Biometry, Epidemiology and Information Processing, Veterinary Medical University Hannover, 30559 Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,Medizinische Hochschule Hannover (MHH),TRUE,"true for OpenAlex, false for KB"
+https://openalex.org/W4221084608,"Institute for Biometry, Epidemiology and Information Processing, Veterinary Medical University Hannover, 30559 Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,Medizinische Hochschule Hannover (MHH),FALSE,"true for OpenAlex, false for KB"
 https://openalex.org/W4400370338,"Department of Obstetrics, Gynecology and Reproductive Medicine, Hannover Medical School, Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,FALSE,Hannover Medical School
 https://openalex.org/W4206438746,"Institute for Animal Breeding and Genetics, University of Veterinary Medicine, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
 https://openalex.org/W4403401746,"Department of Obstetrics, Gynecology and Reproductive Medicine, Hannover Medical School, 30625 Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,FALSE,Hannover Medical School
@@ -32,7 +32,7 @@ https://openalex.org/W4393232495,"Department of Obstetrics, Gynecology, and Repr
 https://openalex.org/W3047637160,"Department of Obstetrics, Gynecology and Reproductive Medicine, Hannover Medical School, 30625 Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,FALSE,Hannover Medical School
 https://openalex.org/W4390502269,"IVD Innovative Veterinary Diagnostics (IVD GmbH), Albert-Einstein-Str. 5, 30926 Seelze, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
 https://openalex.org/W3034529596,Messerli Research Institute University of Veterinary Medicine Vienna,Stiftung Tierärztliche Hochschule Hannover,,FALSE,University of Veterinary Medicine Vienna
-https://openalex.org/W4220716458,"Department of Obstetrics, Gynaecology and Reproductive Sciences, Hannover Medical Reproductive Medicine, Hannover D-30625, Germany",Stiftung Tierärztliche Hochschule Hannover,Medizinische Hochschule Hannover (MHH),False/True,"False for OpenAlex, true for KB"
+https://openalex.org/W4220716458,"Department of Obstetrics, Gynaecology and Reproductive Sciences, Hannover Medical Reproductive Medicine, Hannover D-30625, Germany",Stiftung Tierärztliche Hochschule Hannover,Medizinische Hochschule Hannover (MHH),TRUE,"False for OpenAlex, true for KB"
 https://openalex.org/W4254421636,"Research Center Emerging Infections and Zoonoses, Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
 https://openalex.org/W3123892912,"Research Center of Emerging Infections and Zoonoses, Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,TRUE,
 https://openalex.org/W4224259323,"Department of Obstetrics, Gynecology and Reproductive Medicine, Hannover Medical School, Hannover, Germany",Stiftung Tierärztliche Hochschule Hannover,,FALSE,Hannover Medical School
@@ -54,7 +54,7 @@ https://openalex.org/W3148861468,"CAPNETZ STIFTUNG, Hannover, Germany. jan.rupp@
 https://openalex.org/W4295494478,"CAPNETZ STIFTUNG, Hannover, Germany. gernot.rohde@kgu.de",,Stiftung Tierärztliche Hochschule Hannover,FALSE,
 https://openalex.org/W3196079013,"Zentrum für Systemische Neurowissenschaften (ZSN), Stiftung Tierärztliche Hochschule",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
 https://openalex.org/W3203901338,"University of Veterinary Medicine Hannover, Foundation, Institute for Food Quality and Food Safety, Hannover, Germany",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
-https://openalex.org/W4399659936,"Faculty of Electrical and Information Technology, University of Applied Sciences and Arts of Hannover, Ricklinger Stadtweg 120, Hanover, 30459, Germany",Hochschule Hannover,Stiftung Tierärztliche Hochschule Hannover,False/True,"true for OpenAlex, false for KB"
+https://openalex.org/W4399659936,"Faculty of Electrical and Information Technology, University of Applied Sciences and Arts of Hannover, Ricklinger Stadtweg 120, Hanover, 30459, Germany",Hochschule Hannover,Stiftung Tierärztliche Hochschule Hannover,FALSE,
 https://openalex.org/W4301391056,"Stiftung Tierärztliche Hochschule Hannover, Institut für Tierernährung",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
 https://openalex.org/W4281671448,"Kirsten is a postdoc at the Institute for Animal Hygiene, Animal Welfare and Farm Animal Behaviour at the University of Veterinary Medicine Hannover, Hannover",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
 https://openalex.org/W4387627092,"Veterinary Dental Clinic, Dorfstrasse 70, CH-8912 Obfelden, Switzerland. Electronic address: g.morgenegg@tierarzt-morgenegg.ch",,Stiftung Tierärztliche Hochschule Hannover,FALSE,
@@ -79,7 +79,7 @@ https://openalex.org/W3198878946,"Institut für Biochemie, Stiftung Tierärztliche
 https://openalex.org/W4205754321,"Außenstelle für Epidemiologie, Tierärztliche Hochschule Hannover , Hannover, Germany",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
 https://openalex.org/W4285500662,"Research Center for Emerging Infections and Zoonoses (RIZ), Stiftung
                     Tierärztliche Hochschule",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
-https://openalex.org/W4403189208,"7Department of Media, Information, and Design, University of Applied Sciences and Arts, Hannover, Germany",Hochschule Hannover,Stiftung Tierärztliche Hochschule Hannover,False/True,"true for OpenAlex, false for KB"
+https://openalex.org/W4403189208,"7Department of Media, Information, and Design, University of Applied Sciences and Arts, Hannover, Germany",Hochschule Hannover,Stiftung Tierärztliche Hochschule Hannover,FALSE,
 https://openalex.org/W4392642736,"Klinik für Kleintiere, Stiftung Tierärztliche Hochschule",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
 https://openalex.org/W4281671448,"Kirsten is a postdoc at the Institute for Animal Hygiene, Animal Welfare and Farm Animal Behaviour at the University of Veterinary Medicine Hannover, 
 Hannover",,Stiftung Tierärztliche Hochschule Hannover,TRUE,
