@@ -2,8 +2,8 @@
 
 ## Inhalt
 
-- [Institutionszuordnung](#-Institutionszuordnung)
-- [Fakultätszuordnung](#-Fakultätszuordnung)
+- [Institutionszuordnung](#institutionszuordnung)
+- [Fakultätszuordnung](#fakultätszuordnung)
 
 ## Institutionszuordnung
 
