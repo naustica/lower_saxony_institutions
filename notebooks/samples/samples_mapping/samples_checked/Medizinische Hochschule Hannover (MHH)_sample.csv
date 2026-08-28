@@ -38,7 +38,7 @@ doi,parent_name,raw_affiliation_string,fak_name,dept_name,validation,comment
 10.1159/000524321,Medizinische Hochschule Hannover (MHH),"Medical School of Hannover, Gynecologist, Hannover, Germany",Klinik für Frauenheilkunde und Geburtshilfe,,TRUE,
 10.1055/a-1655-7215,Medizinische Hochschule Hannover (MHH),"Rehabilitation Medicine, Hannover Medical School, Hannover,
                     Deutschland",Klinik für Frauenheilkunde und Geburtshilfe,,FALSE,Should be  Klinik für Rehabilitationsmedizin
-10.1024/1422-4917/a000871,Medizinische Hochschule Hannover (MHH),"Institut für Medizinische                     Psychologie, Medizinische Hochschule Hannover, Hannover,                         Deutschland",,,TRUE,
+10.1024/1422-4917/a000871,Medizinische Hochschule Hannover (MHH),"Institut für Medizinische                     Psychologie, Medizinische Hochschule Hannover, Hannover,                         Deutschland",,,FALSE,
 10.3389/fphar.2022.906468,Medizinische Hochschule Hannover (MHH),"Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical School, Hannover, Germany",Zentrum Innere Medizin,"Klinik für Gastroenterologie, Hepatologie und Endokrinologie",TRUE,
 10.1055/s-0044-1786090,Medizinische Hochschule Hannover (MHH),"Medizinische Hochschule Hannover, Hannover, Deutschland",,,TRUE,
 10.1007/s40123-023-00808-8,Medizinische Hochschule Hannover (MHH),"Institute of Pathology, Medizinische Hochschule Hannover, Hannover, Germany","Zentrum für Pathologie, Forensik und Genetik",Institut für Pathologie,TRUE,
@@ -102,4 +102,4 @@ doi,parent_name,raw_affiliation_string,fak_name,dept_name,validation,comment
 10.1016/j.ejca.2022.02.009,Medizinische Hochschule Hannover (MHH),"Medizinische Hochschule, Carl-Neuberg-Strasse 1, Hannover, Germany",,,TRUE,
 10.1038/s41419-024-06841-0,Medizinische Hochschule Hannover (MHH),"Department of Gastroenterology, Hepatology, Infectious Diseases, and Endocrinology, Hannover Medical School, Hannover, Germany",Zentrum Innere Medizin,"Klinik für Gastroenterologie, Hepatologie und Endokrinologie",TRUE,
 10.1055/s-0044-1786600,Medizinische Hochschule Hannover (MHH),"Hannover Medical School, Hannover, Germany",,,TRUE,"Zentrum Chirurgie, Klinik für Orthopädie"
-10.1007/s00132-021-04156-y,Medizinische Hochschule Hannover (MHH),"MHH Klinik für Orthopädie, Annastift, Hannover, Deutschland",,,TRUE,
+10.1007/s00132-021-04156-y,Medizinische Hochschule Hannover (MHH),"MHH Klinik für Orthopädie, Annastift, Hannover, Deutschland",,,FALSE,
