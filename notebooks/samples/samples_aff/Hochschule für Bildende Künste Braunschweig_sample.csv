@@ -1,20 +1,20 @@
-id,raw_affiliation_string,in_oal_missing,in_kb_missing
-https://openalex.org/W3016457829,"School of Mechanical Engineering, Braunschweig university of technology, Braunschweig, 38106, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W3176435379,"PTB, Braunschweig and Berlin, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4386834918,"Department of Industrial, Organizational, and           Social Psychology, Braunschweig University of Technology, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W3023595331,HBK Braunschweig,,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4283452227,"Research Associate, Dept. of Architecture, Civil Engineering and Environmental Sciences, TU Braunschweig, Beethovenstr. 51a, 38106 Braunschweig, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4395102490,presente artigo se,,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W3131019152,"Yumab GmbH, Braunschweig, Deutschland",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4388569412,sociedade. Este artigo explora respostas,,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4394611326,"HBK, Communication Arts, Braunschweig, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4399713032,"Braunschweig University of Art, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W3118907400,", Braunschweig, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4304687743,"Department of Plant Biology, Braunschweig University of Technology, Braunschweig, Germany. Electronic address: r.mendel@tu-bs.de",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4404789880,"Filz Engineering, BertramstraÃŸe 3, 38102 Braunschweig, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W3172289766,Department of Landscape Ecology and Environmental Systems Analysis University of Braunschweig  Braunschweig Germany,,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4387772779,", Braunschweig, Deutschland",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4206737857,"Am Hohen Tore 4a, 38118 Braunschweig/Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4362519285,"GedenkstÃ¤tte KZ-AuÃŸenlager , Braunschweig-SchillstraÃŸe , Braunschweig , 38102 , Germany ",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W4392742531,"Braunschweig Integrated Centre of Systems Biology, Braunschweig University of Technology, Braunschweig, Germany",,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
-https://openalex.org/W3184792902,PTB  38116 Braunschweig Germany,,Hochschule fÃ¼r Bildende KÃ¼nste Braunschweig
+id,raw_affiliation_string,in_oal_missing,in_kb_missing,validation,comment
+https://openalex.org/W3016457829,"School of Mechanical Engineering, Braunschweig university of technology, Braunschweig, 38106, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,Braunschweig university of technology
+https://openalex.org/W3176435379,"PTB, Braunschweig and Berlin, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4386834918,"Department of Industrial, Organizational, and           Social Psychology, Braunschweig University of Technology, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,Braunschweig University of Technology
+https://openalex.org/W3023595331,HBK Braunschweig,,Hochschule für Bildende Künste Braunschweig,TRUE,
+https://openalex.org/W4283452227,"Research Associate, Dept. of Architecture, Civil Engineering and Environmental Sciences, TU Braunschweig, Beethovenstr. 51a, 38106 Braunschweig, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,Technische Universität Braunschweig
+https://openalex.org/W4395102490,presente artigo se,,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W3131019152,"Yumab GmbH, Braunschweig, Deutschland",,Hochschule für Bildende Künste Braunschweig,FALSE,Technische Universität Braunschweig
+https://openalex.org/W4388569412,sociedade. Este artigo explora respostas,,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4394611326,"HBK, Communication Arts, Braunschweig, Germany",,Hochschule für Bildende Künste Braunschweig,TRUE,
+https://openalex.org/W4399713032,"Braunschweig University of Art, Germany",,Hochschule für Bildende Künste Braunschweig,TRUE,
+https://openalex.org/W3118907400,", Braunschweig, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4304687743,"Department of Plant Biology, Braunschweig University of Technology, Braunschweig, Germany. Electronic address: r.mendel@tu-bs.de",,Hochschule für Bildende Künste Braunschweig,FALSE,Braunschweig University of Technology
+https://openalex.org/W4404789880,"Filz Engineering, Bertramstraße 3, 38102 Braunschweig, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W3172289766,Department of Landscape Ecology and Environmental Systems Analysis University of Braunschweig  Braunschweig Germany,,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4387772779,", Braunschweig, Deutschland",,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4206737857,"Am Hohen Tore 4a, 38118 Braunschweig/Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4362519285,"Gedenkstätte KZ-Außenlager , Braunschweig-Schillstraße , Braunschweig , 38102 , Germany ",,Hochschule für Bildende Künste Braunschweig,FALSE,
+https://openalex.org/W4392742531,"Braunschweig Integrated Centre of Systems Biology, Braunschweig University of Technology, Braunschweig, Germany",,Hochschule für Bildende Künste Braunschweig,FALSE,Braunschweig University of Technology
+https://openalex.org/W3184792902,PTB  38116 Braunschweig Germany,,Hochschule für Bildende Künste Braunschweig,FALSE,Physikalisch-Technische Bundesanstalt

@@ -1,105 +1,105 @@
-id,raw_affiliation_string,in_oal_missing,in_kb_missing
-https://openalex.org/W4404402536,"Chair of Medical Sociology, Institute of Medical Sociology, Health Services Research, and Rehabilitation Science, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany; Division for Organizational Health Services Research, School of Medicine and Health Sciences, Department of Health Services Research, University of Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3017048923,"Helmholtz Institute for Functional Marine Biodiversity, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4210749143,"Leibniz-Centre for Tropical Marine Research (ZMT), Ecology Department, Fahrenheitstraße 6, 28359, Bremen, Germany 2Institute for Chemistry and Biology of the Marine Environment (ICBM), Carl-von-Ossietzky-Straße 9-11, 26111 Oldenburg, Germany  3Smithsonian Tropical Research Institute (STRI), Balboa, Panama, Republic of Panama",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4310109023,"Department of Neurology, Evangelical Hospital Oldenburg, Carl von Ossietzky-University, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4396798605,"Pius-Hospital, University Medicine Oldenburg",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4387209279,"Alfred-Wegener-Institute, Helmholtz Centre for Polar and Marine Science, Am Handeshafen 12, 27570, Germany; Helmholtz Institute for Functional Marine Biodiversity at the University Oldenburg, Ammerländer Heerstraße 231, 26 129, Oldenburg, Germany, (HIFMB). Electronic address: Jennifer.Dannheim@awi.de",Carl von Ossietzky Universität Oldenburg,
+id,raw_affiliation_string,in_oal_missing,in_kb_missing,validation,comment
+https://openalex.org/W4404402536,"Chair of Medical Sociology, Institute of Medical Sociology, Health Services Research, and Rehabilitation Science, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany; Division for Organizational Health Services Research, School of Medicine and Health Sciences, Department of Health Services Research, University of Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3017048923,"Helmholtz Institute for Functional Marine Biodiversity, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4210749143,"Leibniz-Centre for Tropical Marine Research (ZMT), Ecology Department, Fahrenheitstraße 6, 28359, Bremen, Germany 2Institute for Chemistry and Biology of the Marine Environment (ICBM), Carl-von-Ossietzky-Straße 9-11, 26111 Oldenburg, Germany  3Smithsonian Tropical Research Institute (STRI), Balboa, Panama, Republic of Panama",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4310109023,"Department of Neurology, Evangelical Hospital Oldenburg, Carl von Ossietzky-University, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4396798605,"Pius-Hospital, University Medicine Oldenburg",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4387209279,"Alfred-Wegener-Institute, Helmholtz Centre for Polar and Marine Science, Am Handeshafen 12, 27570, Germany; Helmholtz Institute for Functional Marine Biodiversity at the University Oldenburg, Ammerländer Heerstraße 231, 26 129, Oldenburg, Germany, (HIFMB). Electronic address: Jennifer.Dannheim@awi.de",Carl von Ossietzky Universität Oldenburg,,True,
 https://openalex.org/W3021394091,"Helmholtz Institute for Functional Marine Biodiversity at the
 University Oldenburg (HIFMB), AmmerlÃ¤nder HeerstraÃe 231, 26129
-Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4229378509,"Carl von Ossietzky University Oldenburg, University Hospital for Visceral Surgery, Pius-Hospital Oldenburg, Georgstr. 12, 26121, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4387209279,"University of Bremen, Bibliothekstraße 1, 28359, Bremen, Germany; Alfred-Wegener-Institute, Helmholtz Centre for Polar and Marine Science, Am Handeshafen 12, 27570, Germany; Helmholtz Institute for Functional Marine Biodiversity at the University Oldenburg, Ammerländer Heerstraße 231, 26 129, Oldenburg, Germany, (HIFMB). Electronic address: Thomas.Brey@awi.de",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4379646019,"Pius-Hospital Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4416643196,"Universitätsmedizin Oldenburg; PIUS-Hospital, Universitätsklinik für Viszeralchirurgie, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4229373948,"Pius-Hospital Oldenburg, University Clinic Internal Medicine, Georgstraße 12, 26121, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3136139086,"University Clinic for Medical Radiation Physics, Medical Campus Pius-Hospital, Carl von Ossietzky University Oldenburg, Georgstrasse 12, 26121, Oldenburg, Germany. Ping.Jiang@Pius-Hospital.de",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4403601198,"University Hospital for Gynecology Pius Hospital, University Medicine Oldenburg, 26121 Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3042756634,"Helmholtz Institute for Functional Marine Biodiversity, Oldenburg Oldenburg Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3048723458,"Klinik für Neurologische Intensivmedizin und Frührehabilitation, Evangelisches Krankenhaus Oldenburg, Medizinischer Campus Universität Oldenburg, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3045890535,"University Clinic for Medical Radiation Physics, Medical Campus Pius-Hospital, Carl von Ossietzky University, Georgstrasse 12, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4399301272,"Evangelisches Krankenhaus, Klinik für Anästhesiologie, Notfallmedizin und Schmerztherapie, Universitätsmedizin Oldenburg, Steinweg 13-17, 26122, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3148649003,"Pius Hospital, Department of General and Visceral Surgery, University Hospital of Visceral Surgery, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4285094414,"Klinik für Unfallchirurgie, Orthopädie & Sporttraumatologie, Evangelisches Krankenhaus Oldenburg, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4392103691,"Helmholtz Institute for Functional Marine Biodiversity (HIFMB), Carl von Ossietzky University Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4385836594,"Helmholtz Institute for Functional Marine Biodiversity at the University Oldenburg, Ammerländer Heerstraße 231, 23129 Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4313584980,"Institute for Chemistry and Biology of the Marine Environment (ICBM), Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3042693479,"Evangelisches Krankenhaus Oldenburg, HNO Oldenburg",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3037388584,"Helmholtz Institute for Functional Marine Biodiversity, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3189734457,"Institute for Chemistry and Biology of the Marine Environment (ICBM), Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3081594783,"Prof. Dr., DGNR, Klinikum Bremen-Ost,                     Zentrum für Neurologie, Bremen, Universität Oldenburg, Institut                     für Psychologie, Oldenburg",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4396624438,"Institute of Clinical Chemistry and Laboratory Medicine, University Medicine Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4293148410,"Evangelisches Krankenhaus Oldenburg, Universitätsklinik für Hals- Nasen- Ohrenheilkunde Oldenburg",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4405674447,"Pius-Hospital Oldenburg Department of Orthopedic surgery and Traumatology, Oldenburg Medical School, Georgstraße 12, Oldenburg 26121, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4225352800,"Pius-Hospital Oldenburg, Universitätsklinik für Innere Medizin, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4205356254,"University Hospital for Gynecology, Pius-Hospital, University Medicine Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4323567705,Helmholtz Institute for Functional Marine Biodiversity at Oldenburg University  Oldenburg Germany,Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4380186071,"Uniklinik HNO Evangelisches Krankenhaus Oldenburg, HNO",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4312260547,"Fraunhofer-Institut für Digitale Medientechnologien IDMT, Hör-, Sprach- und Audiotechnologie and Cluster of Excellence Hearing4all, Oldenburg 26129, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4309562323,"Helmholtz Institute for Functional Marine Biodiversity (HIFMB), Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4391645921,"Department of Hematology and Oncology, University Department Internal Medicine‐Oncology Pius‐Hospital, University Medicine Oldenburg  Oldenburg Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4391686439,"Institute of Clinical Chemistry and Laboratory Medicine , University Medicine Oldenburg , Oldenburg , Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4220757897,"Helmholtz-Institute for Functional Marine Biodiversity (HIFMB), University of Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3009503214,"Cluster of Excellence ""Hearing4all"" and Research Centre Neurosensory Science, Department of Neuroscience, School of Medicine and Health Science, Carl von Ossietzky University Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3097523644,"Universitätsklinik für Orthopädie und Unfallchirurgie, Pius-Hospital, Carl-von-Ossietzky-Universität",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4303022546,Pius‐Hospital University Clinic for Gynecology  Oldenburg Germany,Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4388534287,"Carl von Ossietzky-University, Evangelisches Krankenhaus Oldenburg, Department of Neurology, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3134248218,"Unfallchirurgie, Orthopädie und Sporttraumatologie, Evangelisches Krankenhaus Oldenburg, Steinweg 13-17, 26122, Oldenburg, Deutschland. timlefarth@gmail.com",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4387952089,"Universitätsmedizin Oldenburg, Anatomie, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4224248297,"Cluster of Excellence ""Hearing4all"" and Research Centre Neurosensory Science, Department of Neuroscience, School of Medicine and Health Science, Carl von Ossietzky University Oldenburg",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W3164081155,"Cluster of Excellence Hearing4all, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4307091671,"Helmholtz Institute for Functional Marine Biodiversity (HIFMB) Ammerländer  Heerstraße 231, 26129 Oldenburg Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4379537587,"Institute for Clinical Chemistry and Laboratory Medicine, University Oldenburg, Rahel-Straus-Straße 10, 26133, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
+Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4229378509,"Carl von Ossietzky University Oldenburg, University Hospital for Visceral Surgery, Pius-Hospital Oldenburg, Georgstr. 12, 26121, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4387209279,"University of Bremen, Bibliothekstraße 1, 28359, Bremen, Germany; Alfred-Wegener-Institute, Helmholtz Centre for Polar and Marine Science, Am Handeshafen 12, 27570, Germany; Helmholtz Institute for Functional Marine Biodiversity at the University Oldenburg, Ammerländer Heerstraße 231, 26 129, Oldenburg, Germany, (HIFMB). Electronic address: Thomas.Brey@awi.de",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4379646019,"Pius-Hospital Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4416643196,"Universitätsmedizin Oldenburg; PIUS-Hospital, Universitätsklinik für Viszeralchirurgie, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4229373948,"Pius-Hospital Oldenburg, University Clinic Internal Medicine, Georgstraße 12, 26121, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3136139086,"University Clinic for Medical Radiation Physics, Medical Campus Pius-Hospital, Carl von Ossietzky University Oldenburg, Georgstrasse 12, 26121, Oldenburg, Germany. Ping.Jiang@Pius-Hospital.de",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4403601198,"University Hospital for Gynecology Pius Hospital, University Medicine Oldenburg, 26121 Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3042756634,"Helmholtz Institute for Functional Marine Biodiversity, Oldenburg Oldenburg Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3048723458,"Klinik für Neurologische Intensivmedizin und Frührehabilitation, Evangelisches Krankenhaus Oldenburg, Medizinischer Campus Universität Oldenburg, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3045890535,"University Clinic for Medical Radiation Physics, Medical Campus Pius-Hospital, Carl von Ossietzky University, Georgstrasse 12, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4399301272,"Evangelisches Krankenhaus, Klinik für Anästhesiologie, Notfallmedizin und Schmerztherapie, Universitätsmedizin Oldenburg, Steinweg 13-17, 26122, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3148649003,"Pius Hospital, Department of General and Visceral Surgery, University Hospital of Visceral Surgery, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4285094414,"Klinik für Unfallchirurgie, Orthopädie & Sporttraumatologie, Evangelisches Krankenhaus Oldenburg, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4392103691,"Helmholtz Institute for Functional Marine Biodiversity (HIFMB), Carl von Ossietzky University Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4385836594,"Helmholtz Institute for Functional Marine Biodiversity at the University Oldenburg, Ammerländer Heerstraße 231, 23129 Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4313584980,"Institute for Chemistry and Biology of the Marine Environment (ICBM), Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3042693479,"Evangelisches Krankenhaus Oldenburg, HNO Oldenburg",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3037388584,"Helmholtz Institute for Functional Marine Biodiversity, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3189734457,"Institute for Chemistry and Biology of the Marine Environment (ICBM), Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3081594783,"Prof. Dr., DGNR, Klinikum Bremen-Ost,                     Zentrum für Neurologie, Bremen, Universität Oldenburg, Institut                     für Psychologie, Oldenburg",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4396624438,"Institute of Clinical Chemistry and Laboratory Medicine, University Medicine Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4293148410,"Evangelisches Krankenhaus Oldenburg, Universitätsklinik für Hals- Nasen- Ohrenheilkunde Oldenburg",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4405674447,"Pius-Hospital Oldenburg Department of Orthopedic surgery and Traumatology, Oldenburg Medical School, Georgstraße 12, Oldenburg 26121, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4225352800,"Pius-Hospital Oldenburg, Universitätsklinik für Innere Medizin, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4205356254,"University Hospital for Gynecology, Pius-Hospital, University Medicine Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4323567705,Helmholtz Institute for Functional Marine Biodiversity at Oldenburg University  Oldenburg Germany,Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4380186071,"Uniklinik HNO Evangelisches Krankenhaus Oldenburg, HNO",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4312260547,"Fraunhofer-Institut für Digitale Medientechnologien IDMT, Hör-, Sprach- und Audiotechnologie and Cluster of Excellence Hearing4all, Oldenburg 26129, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4309562323,"Helmholtz Institute for Functional Marine Biodiversity (HIFMB), Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4391645921,"Department of Hematology and Oncology, University Department Internal Medicine‐Oncology Pius‐Hospital, University Medicine Oldenburg  Oldenburg Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4391686439,"Institute of Clinical Chemistry and Laboratory Medicine , University Medicine Oldenburg , Oldenburg , Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4220757897,"Helmholtz-Institute for Functional Marine Biodiversity (HIFMB), University of Oldenburg, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3009503214,"Cluster of Excellence ""Hearing4all"" and Research Centre Neurosensory Science, Department of Neuroscience, School of Medicine and Health Science, Carl von Ossietzky University Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3097523644,"Universitätsklinik für Orthopädie und Unfallchirurgie, Pius-Hospital, Carl-von-Ossietzky-Universität",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4303022546,Pius‐Hospital University Clinic for Gynecology  Oldenburg Germany,Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4388534287,"Carl von Ossietzky-University, Evangelisches Krankenhaus Oldenburg, Department of Neurology, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3134248218,"Unfallchirurgie, Orthopädie und Sporttraumatologie, Evangelisches Krankenhaus Oldenburg, Steinweg 13-17, 26122, Oldenburg, Deutschland. timlefarth@gmail.com",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4387952089,"Universitätsmedizin Oldenburg, Anatomie, Oldenburg, Deutschland",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4224248297,"Cluster of Excellence ""Hearing4all"" and Research Centre Neurosensory Science, Department of Neuroscience, School of Medicine and Health Science, Carl von Ossietzky University Oldenburg",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W3164081155,"Cluster of Excellence Hearing4all, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4307091671,"Helmholtz Institute for Functional Marine Biodiversity (HIFMB) Ammerländer  Heerstraße 231, 26129 Oldenburg Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4379537587,"Institute for Clinical Chemistry and Laboratory Medicine, University Oldenburg, Rahel-Straus-Straße 10, 26133, Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
 https://openalex.org/W4309766761,"Helmholtz Institute for Functional Marine Biodiversity,
-AmmerlÃ¤nder HeerstraÃe 231, 26129 Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,
-https://openalex.org/W4394687736,"German Aerospace Center (DLR) Institute of Networked Energy Systems, Urban and Residential Technologies  Carl‐von‐Ossietzky‐Str. 15 Oldenburg 26129 Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3023025072,DLR Institute of Networked Energy Systems Carl‐von‐Ossietzky‐Str. 15 26129 Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3001386322,Urban and Residential Technologies DLR Institute of Networked Energy Systems  Carl-von-Ossietzky-Str. 15 26129 Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4391384868,"Clinic for Cardiac Surgery, University Clinic Oldenburg, 26133 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3083961618,"Carl von Ossietzky Universität , Institut für Physik , D-26111, Oldenburg , Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4306641750,University Hospital of Dermatology and Allergy Medical Center Oldenburg  Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3099582645,"University of Oldenburg, Division for Medical Radiation Physics and Space Environment, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3148848521,"Hörzentrum Oldenburg GmbH, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4390343518,"Institute for Educational Quality Improvement, Berlin, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3164376246,"Department of Pediatric Pneumology and Allergology, University Hospital, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4293249382,"Ped Mind Institute, Department of Pediatrics, Hindenburgring 4, D-48599 Gronau, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3034015632,"Department of Physics, Carl von Ossietzky University, Carl-von-Ossietzky Straße 9-11, 26129, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3195511142,"Research Center Neurosensory Science, Carl von Ossietzky Universität Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3082520375,Department of Cardiology University Hospital Oldenburg  Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3196431148,"Carl von Ossietzky Universität, Forschungszentrum Neurosensorik, 26129 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4382941006,"Lungenkrebsmedizin Oldenburg, GbR, 26121 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W2261575631,"Oldenburg, 1967, 284",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4293149646,"Hörzentrum Oldenburg gGmbH, Audiologie Oldenburg",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4399291810,"Clinic for Cardiac Surgery, University Clinic Oldenburg, 26129 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3128135108,"Department for Neuroscience, School of Medicine and Health Sciences, Carl von Ossietzky University Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W2996270956,"Institut für Physik, Carl von Ossietzky Universität, D-26111, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3212895676,"Department of Psychology, Division for Psychological Methods and Statistics, Carl von Ossietzky University Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3096952291,"Institute of Mathematics, Carl von Ossietzky Universität Oldenburg, D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4297100013,"Institute of Physics, University of Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4318200599,"Department of Pediatrics and Pediatric Hematology/Oncology, University Children's Hospital, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
+AmmerlÃ¤nder HeerstraÃe 231, 26129 Oldenburg, Germany",Carl von Ossietzky Universität Oldenburg,,True,
+https://openalex.org/W4394687736,"German Aerospace Center (DLR) Institute of Networked Energy Systems, Urban and Residential Technologies  Carl‐von‐Ossietzky‐Str. 15 Oldenburg 26129 Germany",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W3023025072,DLR Institute of Networked Energy Systems Carl‐von‐Ossietzky‐Str. 15 26129 Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W3001386322,Urban and Residential Technologies DLR Institute of Networked Energy Systems  Carl-von-Ossietzky-Str. 15 26129 Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W4391384868,"Clinic for Cardiac Surgery, University Clinic Oldenburg, 26133 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3083961618,"Carl von Ossietzky Universität , Institut für Physik , D-26111, Oldenburg , Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4306641750,University Hospital of Dermatology and Allergy Medical Center Oldenburg  Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3099582645,"University of Oldenburg, Division for Medical Radiation Physics and Space Environment, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3148848521,"Hörzentrum Oldenburg GmbH, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W4390343518,"Institute for Educational Quality Improvement, Berlin, Germany",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W3164376246,"Department of Pediatric Pneumology and Allergology, University Hospital, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4293249382,"Ped Mind Institute, Department of Pediatrics, Hindenburgring 4, D-48599 Gronau, Germany",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W3034015632,"Department of Physics, Carl von Ossietzky University, Carl-von-Ossietzky Straße 9-11, 26129, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3195511142,"Research Center Neurosensory Science, Carl von Ossietzky Universität Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3082520375,Department of Cardiology University Hospital Oldenburg  Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3196431148,"Carl von Ossietzky Universität, Forschungszentrum Neurosensorik, 26129 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4382941006,"Lungenkrebsmedizin Oldenburg, GbR, 26121 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W2261575631,"Oldenburg, 1967, 284",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W4293149646,"Hörzentrum Oldenburg gGmbH, Audiologie Oldenburg",,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W4399291810,"Clinic for Cardiac Surgery, University Clinic Oldenburg, 26129 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3128135108,"Department for Neuroscience, School of Medicine and Health Sciences, Carl von Ossietzky University Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W2996270956,"Institut für Physik, Carl von Ossietzky Universität, D-26111, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3212895676,"Department of Psychology, Division for Psychological Methods and Statistics, Carl von Ossietzky University Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3096952291,"Institute of Mathematics, Carl von Ossietzky Universität Oldenburg, D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4297100013,"Institute of Physics, University of Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4318200599,"Department of Pediatrics and Pediatric Hematology/Oncology, University Children's Hospital, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
 https://openalex.org/W3172500954,"Institut für Mathematik [Oldenburg] (Ammerländer Heerstraße 114 - 118
-26129 Oldenburg - Germany)",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4282002300,"University Children’s Hospital , Oldenburg , Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4205377075,"Institut f€ ur Chemie und Biologie des Meeres Universit€ at Oldenburg, Postfach 2503, 26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4200444714,"Machine Learning Lab, University of Oldenburg, Oldenburg, Lower Saxony, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4405651113,"Institut für Mathematik, Universität Oldenburg, D26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3011402160,"Institute for Educational Quality Improvement, Berlin, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3131328226,Carl von Ossietzky Universität Oldenburg,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3037839325,"Carl von Ossietzky University Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4404534931,"University Clinic of Dermatolgy and Allergy, Oldenburg Clinic, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4385838540,"Department of Cardiac Surgery, Oldenburg Hospital, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3136784046,"Department of Epidemiology & Biostatistics, University of California, San Francisco, USA. catherine.oldenburg@ucsf.edu",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3090448137,"Institute of Physics, University of Oldenburg, Oldenburg, D-26129 Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3009106365,"Institute of Physics, Carl von Ossietzky Universität Oldenburg, Oldenburg 26129, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3195511142,"Department of Neurosurgery, Carl von Ossietzky Universität Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3212047745,"Department of Human Medicine, University of Oldenburg",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4310162958,"15Klinikum Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4387625055,"University Hospital for Dermatology and Allergology, Clinic Oldenburg, Oldenburg",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3016940675,"Institute of Physics, University of Oldenburg, D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W4238595796,"Department of Physics, Carl von Ossietzky Universität Oldenburg, Carl-von-Ossietzky-Str. 9-11, D-26129 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3131736767,Office Dr. Martin Schlaeger  Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3162930971,"Ear, Nose and Throat Department, University Clinic Oldenburg, Oldenburg",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3109624051,"Oldenburg Hospital, Cardiology, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3082520375,Department of Cardiology University Hospital Oldenburg Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W2965215715,"Institut für Physik, Universität Oldenburg, Postfach 503 D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
-https://openalex.org/W3039352455,"Institut für Physik, Universität Oldenburg - Postfach 2503, D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg
+26129 Oldenburg - Germany)",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4282002300,"University Children’s Hospital , Oldenburg , Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4205377075,"Institut f€ ur Chemie und Biologie des Meeres Universit€ at Oldenburg, Postfach 2503, 26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4200444714,"Machine Learning Lab, University of Oldenburg, Oldenburg, Lower Saxony, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4405651113,"Institut für Mathematik, Universität Oldenburg, D26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3011402160,"Institute for Educational Quality Improvement, Berlin, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3131328226,Carl von Ossietzky Universität Oldenburg,,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3037839325,"Carl von Ossietzky University Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4404534931,"University Clinic of Dermatolgy and Allergy, Oldenburg Clinic, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4385838540,"Department of Cardiac Surgery, Oldenburg Hospital, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3136784046,"Department of Epidemiology & Biostatistics, University of California, San Francisco, USA. catherine.oldenburg@ucsf.edu",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3090448137,"Institute of Physics, University of Oldenburg, Oldenburg, D-26129 Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3009106365,"Institute of Physics, Carl von Ossietzky Universität Oldenburg, Oldenburg 26129, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3195511142,"Department of Neurosurgery, Carl von Ossietzky Universität Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3212047745,"Department of Human Medicine, University of Oldenburg",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4310162958,"15Klinikum Oldenburg, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4387625055,"University Hospital for Dermatology and Allergology, Clinic Oldenburg, Oldenburg",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3016940675,"Institute of Physics, University of Oldenburg, D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W4238595796,"Department of Physics, Carl von Ossietzky Universität Oldenburg, Carl-von-Ossietzky-Str. 9-11, D-26129 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3131736767,Office Dr. Martin Schlaeger  Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg,False,
+https://openalex.org/W3162930971,"Ear, Nose and Throat Department, University Clinic Oldenburg, Oldenburg",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3109624051,"Oldenburg Hospital, Cardiology, Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3082520375,Department of Cardiology University Hospital Oldenburg Oldenburg Germany,,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W2965215715,"Institut für Physik, Universität Oldenburg, Postfach 503 D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
+https://openalex.org/W3039352455,"Institut für Physik, Universität Oldenburg - Postfach 2503, D-26111 Oldenburg, Germany",,Carl von Ossietzky Universität Oldenburg,True,
