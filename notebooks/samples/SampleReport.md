@@ -160,13 +160,13 @@ Länge des Samples: 53 (KB: 3; OAL: 50)
 
 ### HAWK Hochschule für angewandte Wissenschaft und Kunst
 
-Länge des Samples: 52 (KB: 0; OAL: 3)
+Länge des Samples: 52 (KB: 50; OAL: 2)
 
 | Beobachtung | Anzahl | Anzahl (prozentual) |
 |-------------|--------|---------------------|
-| Einrichtung richtig zugeordnet (KB) | 0 | |
-| Einrichtung falsch zugeordnet (KB) | 0 | |
-| Einrichtung richtig zugeordnet (OAL) | 3 | (100.0%) |
+| Einrichtung richtig zugeordnet (KB) | 48 | (96.0%) |
+| Einrichtung falsch zugeordnet (KB) | 2 | (4.0%) |
+| Einrichtung richtig zugeordnet (OAL) | 2 | (100.0%) |
 | Einrichtung falsch zugeordnet (OAL) | 0 | (0.0%) |
 | Unbekannt (KB) | 0 | |
 | Unbekannt (OAL) | 0 | |
