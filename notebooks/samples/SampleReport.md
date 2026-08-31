@@ -10,7 +10,7 @@
 Methode: 
 - Sample enthält nur Affiliationsstring, bei denen die Zuordnung zu einer Institution unterschiedlich zwischen OpenAlex und KB ist.
 - Nur Artikel und Reviews, welche zwischen 2020 und 2024 erschienen sind.
-- Ein Sample enthält maximal 50 Zuordnungen, die nur in OpenAlex vorzufinden sind und 50 Zuordnungen, die nur im KB zu finden sind.
+- Ein Sample enthält maximal 50 Zuordnungen, die nur in OpenAlex vorzufinden sind und maximal 50 Zuordnungen, die nur im KB zu finden sind.
 - In Fällen, in denen keine 50 Zuordnungen vorliegen, wird die maximale Anzahl an vorgefundenen einzigartigen Zuordnungen genutzt.
 
 ### Stiftung Universität Hildesheim
@@ -32,12 +32,14 @@ Länge des Samples: 100 (KB: 50; OAL: 50)
 
 | Beobachtung | Anzahl | Anzahl (prozentual) |
 |-------------|--------|---------------------|
-| Einrichtung richtig zugeordnet (KB) | 50 | (100.0%) |
-| Einrichtung falsch zugeordnet (KB) | 0 | (0.0%) |
+| Einrichtung richtig zugeordnet (KB*) | 50 | (100.0%) |
+| Einrichtung falsch zugeordnet (KB*) | 0 | (0.0%) |
 | Einrichtung richtig zugeordnet (OAL) | 47 | (94.0%) |
 | Einrichtung falsch zugeordnet (OAL) | 2 | (4.0%) |
 | Unbekannt (KB) | 0 | |
 | Unbekannt (OAL) | 1 | |
+
+\* Fakultätszuordnung angewendet auf Georg-August-Universität Göttingen (KB)
 
 ### Leuphana Universität Lüneburg
 
@@ -278,7 +280,8 @@ Länge des Samples: 100 (KB: 50; OAL: 50)
 
 Methode: 
 - Sample enthält 100 zufällige Affiliationsstring einer Einrichtung mit Fakultätszuordnung.
-- Nur Artikel und Reviews, welche zwischen 2020 und 2024 erschienen sind.
+- Nur Artikel und Reviews, welche zwischen 2020 und 2024 erschienen sind (Datenbasis: KB).
+- Falsch, wenn der Affiliationsstring nicht der Universität entpsricht, die Fakultät oder das Department falsch zugeordnet wurde oder das Pattern, um die Fakultät oder das Department zu mappen nicht implementiert wurde
 
 ### Stiftung Universität Hildesheim
 
@@ -292,7 +295,7 @@ Länge des Samples: 100
 
 Fehlerbeschreibung: 3x fehlendes Pattern
 
-### Universitätsmedizin Göttingen
+### Universitätsmedizin Göttingen*
 
 Länge des Samples: 100
 
@@ -303,6 +306,8 @@ Länge des Samples: 100
 | Unbekannt | 3 | |
 
 Fehlerbeschreibung: 4x falsche GERiT-Zuordnung, 1x falscher Aff-String
+
+\* Fakultätszuordnung angewendet auf Georg-August-Universität Göttingen (KB)
 
 ### Leuphana Universität Lüneburg
 
