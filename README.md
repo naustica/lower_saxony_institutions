@@ -85,9 +85,12 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 - Göttingen Campus Institut für Dynamic biologischer Netzwerke: https://ror.org/02f04tm31
 - Campus-Institut Data Science (CIDAS): https://ror.org/044sxzm68
 - Niedersächsische Staats-und Universitätsbibliothek Göttingen: https://ror.org/05745n787
+- Multiscale Bioimaging: https://ror.org/05xy1nn52
+- Volkswirtschaftliches Institut für Mittelstand und Handwerk: https://ror.org/031q2en94
 
 #### Universitätsmedizin Göttingen
 - Else Kröner Fresenius Zentrum für Optogenetische Therapien: https://ror.org/03vwt8p73
+- European Neuroscience Institute Göttingen: https://ror.org/029w5ya68
 
 #### Gottfried Wilhelm Leibniz Universität Hannover 
 - Forschungszentrum L3S: https://ror.org/039t4wk02
@@ -96,10 +99,19 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 #### Carl von Ossietzky Universität Oldenburg (plus UMO)
 - Institut für Ökonomische Bildung: https://ror.org/025t8vx68
 - Institut für Chemie und Biologie des Meeres: https://ror.org/0060pja03
+- Oldenburger Institut für Informatik: https://ror.org/003sav189
 - Klinikum Oldenburg: https://ror.org/01t0n2c80 (UMO)
 - Evangelisches Krankenhaus Oldenburg: https://ror.org/04830hf15 (UMO)
 - Pius Hospital Oldenburg: https://ror.org/03avbdx23 (UMO)
 - Helmholtz-Institut für Funktionelle Marine Biodiversität: https://ror.org/00tea5y39
+
+#### Medizinische Hochschule Hannover (MHH)
+- Zentrum für Individualisierte Infektionsmedizin: https://ror.org/04s99xz91
+- Centre for Structural Systems Biology: https://ror.org/04fhwda97
+- Zentrum für Experimentelle und Klinische Infektionsforschung: https://ror.org/04bya8j72
+
+#### Technische Universität Clausthal
+- Forschungszentrum Energiespeichertechnologien: https://ror.org/00q7z2571
 
 ## Methode
 
