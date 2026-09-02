@@ -78,7 +78,7 @@ Nicht immer ist eine korrekte Zuordnung einer Person zu einer (deutschen) wissen
 
 <b>Sonderfall:</b> Die Norddeutsche Hochschule für Rechtspflege ist nicht in der KB-Kodierung enthalten, da für eine Aufnahme in die Kodierung mindestens 15 Publikationen vorliegen müssen.
 
-### Suborganisationen in OpenAlex (ohne An-Institute)
+### Suborganisationen in OpenAlex
 
 #### Georg-August-Universität Göttingen
 - Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen: https://ror.org/00cd95c65
