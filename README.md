@@ -1,6 +1,6 @@
 # HDN-FIS: Institutionsanreicherung niedersächsischer Hochschulen in OpenAlex
 
-**🚧 Work in progress! 🚧**
+**🚧 Das Projekt wird auf GitLab fortgeführt: https://gitlab.gwdg.de/k2-publikationsdatenservice 🚧**
 
 Dieses Projekt zielt darauf ab, die Abdeckung niedersächsischer Hochschulen in OpenAlex zu optimieren. 
 
